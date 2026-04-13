@@ -4,6 +4,6 @@
 
 <h3 align="left">Student of Institute of Cybersecurity and Digital Technologies of MIREA , future software developer )</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepWolf45&layout=compact)
+![Top Langs](https://vercel.app)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StepWolf45&show_icons=true)
